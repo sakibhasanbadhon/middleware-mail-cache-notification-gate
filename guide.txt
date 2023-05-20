@@ -1,0 +1,7 @@
+1. insert student table from route
+2  middleware
+3. mail verification
+4. cache
+5. notification
+6. command a task scheduling
+7. Gate (policy)-> authservice providers
